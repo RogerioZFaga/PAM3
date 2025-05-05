@@ -1,0 +1,1 @@
+workstation id=DB-DS-ROGERIOMIGUEL.mssql.somee.com;packet size=4096;user id=Rogerio;pwd=*123456HAS*;data source=DB-DS-ROGERIOMIGUEL.mssql.somee.com;persist security info=False;initial catalog=DB-DS-ROGERIOMIGUEL;TrustServerCertificate=True
